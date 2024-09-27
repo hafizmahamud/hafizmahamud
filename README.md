@@ -45,14 +45,12 @@
 <br  />
 
 <h3  align="left">Support:</h3>
-<p><a  href="https://www.buymeacoffee.com/hafizmahamud">  <img  align="left"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  height="50"  width="210"  alt="hafizmahamud"  /></a></p><br />
-<p><img  align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=hafizmahamud&theme=dark"  alt="hafizmahamud"  /></p>
-<br />
+<p><a  href="https://www.buymeacoffee.com/hafizmahamud">  <img  align="left"  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  height="50"  width="210"  alt="hafizmahamud"  /></a></p>
 <p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizmahamud&show_icons=true&locale=en&layout=compact"  alt="hafizmahamud"  /></p>
-<br  />
+<br />
 <p><img  align="left"  src="https://github-readme-stats.vercel.app/api?username=hafizmahamud&show_icons=true&locale=en"  alt="hafizmahamud"  /></p>
 <br  />
-
+<p><img  align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=hafizmahamud&theme=dark"  alt="hafizmahamud"  /></p><br />
 
 
 
