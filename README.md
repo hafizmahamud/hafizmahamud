@@ -24,7 +24,7 @@
 
   
 
-- 📄 Know about my experiences [https://hafizmahamud.github.io]
+- 📄 Know about my experiences **https://hafizmahamud.github.io**
 
   
 
