@@ -28,7 +28,7 @@
 
   
 
-- ⚡ Fun fact **I am an adult, but i still watch movies such superheroes cartoon.**
+- ⚡ Fun fact **I am still like to watch cartoons anime and superhero movie**
 
   
 
